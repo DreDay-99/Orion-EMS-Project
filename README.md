@@ -28,7 +28,9 @@ Data Structures: Real-time rolling memory arrays (NumPy optimized)
 
 . System Terminal
 
-(Insert a GIF or link to a Loom video here showing your DOM dashboard running live and reacting to price movements)
+[Watch the Live DOM Terminal Demo Here!]
+(https://www.loom.com/share/f38780cb76584a3892901505eac8cf4f)
+
 
 . Use Cases & Custom Modules
 
