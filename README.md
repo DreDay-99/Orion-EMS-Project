@@ -28,8 +28,8 @@ Data Structures: Real-time rolling memory arrays (NumPy optimized)
 
 . System Terminal
 
-[Watch the Live DOM Terminal Demo Here!]
-(https://www.loom.com/share/f38780cb76584a3892901505eac8cf4f)
+Watch the Live DOM Terminal Demo Here!
+https://www.loom.com/share/f38780cb76584a3892901505eac8cf4f
 
 
 . Use Cases & Custom Modules
